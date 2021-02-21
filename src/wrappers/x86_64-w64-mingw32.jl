@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         liberfa,
-        "bin/liberfa-1.dll",
+        "bin\\liberfa-1.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

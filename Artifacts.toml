@@ -1,115 +1,115 @@
 [[ERFA]]
 arch = "aarch64"
-git-tree-sha1 = "49ac25172b1b5864b632a2c81eef54e32ee87291"
+git-tree-sha1 = "83e8542b2a27d969b4cf9f43c558684fe9c28b0c"
 libc = "glibc"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "eb18b911b678099147621857675e0aa26c6bfb3d4d0887de06ff9eed799b39a5"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "d5355891c7114923b8df73e8072c13312506882986f04d0db249680399ae9b21"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.aarch64-linux-gnu.tar.gz"
 [[ERFA]]
 arch = "aarch64"
-git-tree-sha1 = "268f9c77a9e7493ce59d58fce0c7c3094af10862"
+git-tree-sha1 = "047d13a980199b45a134dbed48bbcfd6e580ba27"
 libc = "musl"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "6aed3ce4a40bf66c1fa368e30b3910435bcd04ef7b38851ab2eb410cdbc4d1c2"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.aarch64-linux-musl.tar.gz"
+    sha256 = "a1c212fb9078c236823bd79336abb28cda60b75f75e7d98146861e3813363b51"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.aarch64-linux-musl.tar.gz"
 [[ERFA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "dd6bfc53b65a9f992570eefc28f36f407eef1796"
+git-tree-sha1 = "4e156180c14a1fae9df64d949b112d597be67dac"
 libc = "glibc"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "5427c2259983b4fa3d4c22e2d1d7f66fd5a55885938088a09c0465dc2336b563"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "02b8f1e14ecf59414deeff474421a59cd475397b86e026986553f8239de9dd56"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.armv7l-linux-gnueabihf.tar.gz"
 [[ERFA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2d9733f46433371787af8f01c936a813cb5bf3ef"
+git-tree-sha1 = "8761ac83a194c497a1c83dde34428e4a5a72a5eb"
 libc = "musl"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "9aeccc110c7a17e410d295fa86690ce954bec840e4ee29e7948f647c1821986b"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "2ab4c0810b5425b1a85aa79e9b0fc71e26189472ca12692b0735c73267907ad9"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.armv7l-linux-musleabihf.tar.gz"
 [[ERFA]]
 arch = "i686"
-git-tree-sha1 = "9e4d89a368fa89e2afde6c0d712310ebf7fb5f2c"
+git-tree-sha1 = "1ee9347b2366a4ca5e42e9be7e37e7fb47bee8ac"
 libc = "glibc"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "81b9ea86a880a136b4cce94a25b7fc054303e48f501b2b335b45bc22daaecb9b"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.i686-linux-gnu.tar.gz"
+    sha256 = "f6c4ea6d2e2e69d6db8602979b0ee6d4db9c73903eaa0d6666d6cf63bc1e963a"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.i686-linux-gnu.tar.gz"
 [[ERFA]]
 arch = "i686"
-git-tree-sha1 = "509c0f0505b8100d97533e126ec3a71b67397fbd"
+git-tree-sha1 = "1a49ef441fb213e3abf05a348253a41fbcd846e7"
 libc = "musl"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "0bfb47808bf722cfd0161f9fde01cd22ab95e65de70c1be2ef7002eb535a3c29"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.i686-linux-musl.tar.gz"
+    sha256 = "8a7fce33f4256b700a370a74091596b0114791193e5a59ee3a8f36c0a1676a97"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.i686-linux-musl.tar.gz"
 [[ERFA]]
 arch = "i686"
-git-tree-sha1 = "c9aa44ce11cbe8a3591c3ebe62c1b0cfd10ec506"
+git-tree-sha1 = "d5b97f43eef013b9ddb76cd83557ecf60683713e"
 os = "windows"
 
     [[ERFA.download]]
-    sha256 = "21822d29b7a950e631b902beb488fef3bc45f7ca59c1c6a460b2a56000e96fbb"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.i686-w64-mingw32.tar.gz"
+    sha256 = "dc11d20627ec9603a6491a34f514bfd22de01c7b8d0edbf8e23aaade974094d4"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.i686-w64-mingw32.tar.gz"
 [[ERFA]]
 arch = "powerpc64le"
-git-tree-sha1 = "4e59e4f40a73fc830a765ff94425b098900a0f27"
+git-tree-sha1 = "764a9436fd09ebbb19eb3c2ffd288b3bb628da24"
 libc = "glibc"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "681c53d935998f4a68f77f9b5f0133c9fa303c5002c0b4d477ffde58645af8f5"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2522eb2a54472be3edc704ae374acbb31d07e582cfb66d82e8a8105c03593b31"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.powerpc64le-linux-gnu.tar.gz"
 [[ERFA]]
 arch = "x86_64"
-git-tree-sha1 = "860e816a6dbf2e61c6359f940b63d37a34c47c1d"
+git-tree-sha1 = "efec8c0caa972227fec2b35d0a350b9b16f262ef"
 os = "macos"
 
     [[ERFA.download]]
-    sha256 = "5aaef39531e6b5446849438eba846ed8a8d600a47fb5888f9064d8e85749101e"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "289b0e3c9fe60fc30d8cbfeff3150ab3922ec81914560cc5c0cda81af4f37874"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.x86_64-apple-darwin.tar.gz"
 [[ERFA]]
 arch = "x86_64"
-git-tree-sha1 = "cb12174837ab5e458887d1d7f200bb698f9b55d1"
+git-tree-sha1 = "040eb1a475341e657bc2431af1d7f913adc55460"
 libc = "glibc"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "62381f100918ce4212e2c13880f1338eb9ec7d7feb20c89126bb78168278d504"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "5aaf7d430dec6d224b4a26c6ccca6bbcdfd145f648c7fc2b384b0f89601491a6"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.x86_64-linux-gnu.tar.gz"
 [[ERFA]]
 arch = "x86_64"
-git-tree-sha1 = "5423c31ab8267df7b11cf9a166bbf4f71c1aa935"
+git-tree-sha1 = "323163344b72713836e4c2fa1a33432a7f6eb4c6"
 libc = "musl"
 os = "linux"
 
     [[ERFA.download]]
-    sha256 = "9e256e2f460bd56d48083f42cf3400d95921d58812aaf54fcf7ef5deda637110"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.x86_64-linux-musl.tar.gz"
+    sha256 = "7a5c23780c2d1e54df7ca0e6b561fa0c3fed22728fda5a56eafaebefa2f09e49"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.x86_64-linux-musl.tar.gz"
 [[ERFA]]
 arch = "x86_64"
-git-tree-sha1 = "44938c963b749157356e0ee9b593fd04c85cfc11"
+git-tree-sha1 = "ab269da516df79d271c37fa051e9fb505f34322b"
 os = "freebsd"
 
     [[ERFA.download]]
-    sha256 = "89b595a1ecf281b6a1f09880d22c83d012b2527561f7578ef318b4bb987304a4"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f3bfd56eda98261c679c68e7d8113c74ef906189ae4f14292871711034702a2b"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.x86_64-unknown-freebsd.tar.gz"
 [[ERFA]]
 arch = "x86_64"
-git-tree-sha1 = "64964f3cc6246251d5e38af2ab3b2ead498ff101"
+git-tree-sha1 = "8d6bdc3f9d03c36084d40d7df9d9f4f072bc40bc"
 os = "windows"
 
     [[ERFA.download]]
-    sha256 = "a7bf91b4704a42bad274060004f2f4a350d9f6276ac41783bf35ba2179503a8c"
-    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.1+0/ERFA.v1.7.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "3906af666a2b0172461e5e98e5b29cf66f90ed20c1c5853cdc3f39671aac8460"
+    url = "https://github.com/JuliaBinaryWrappers/ERFA_jll.jl/releases/download/ERFA-v1.7.2+0/ERFA.v1.7.2.x86_64-w64-mingw32.tar.gz"
